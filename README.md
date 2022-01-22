@@ -4,10 +4,10 @@ The Colorado Board of Elections has requested assistance with the tabulation, an
 ## Audit Results
 ### The following bullets describe the outcomes of the election given by the data:
 ----
-- ####**Votes Cast: 369,711**
+- #### **Votes Cast: 369,711**
 ----
 - **Votes Cast by County**
- ** County**    | **Votes (% Total)**
+ **County**    | **Votes (% Total)**
   ------------- | -------------
   Denver        | 306,055 (82.8%)
   Jefferson     | 38,855 (10.5%)
