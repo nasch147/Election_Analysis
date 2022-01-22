@@ -24,14 +24,13 @@ The Colorado Board of Elections has requested assistance with the tabulation, an
 
 ## Summary
 The utility, ease-of-use, and agility of the python script generated for this project is evident in the results it has yielded for the board. With minimal modifications, the script could also be utilized for a variety of other purposes by the Board especially as it pertains to efficiently analyzing Colorado election data. One of the primary advantages is that the code does not need to be modified to accommodate files with differing categorical values, titles, or other naming conventions. 
-
+![Load and Save Files](Resources/load_save.png)
 The script allows for the reading of any csv file containing board election data. By simply altering the file path (orange script), the board is able to analyze any csv it wishes and save the results to a text file yielding an analysis of the data and preserving the csv files themselves. The script could also be scaled to allow for multiple csv's to be read and analyzed in a significantly expedited fashion as compared to manual analysis of each file individually. 
-
+![Lists and Dictionaries](Resources/Lists_Dictionaries.png)
 The script also utilizes empty list and dictionary sets (key and value pairs) which are populated using the data within the csv itself obviating the need for altering the script significantly from project to project. Variable names in the script are largely arbitrary and can be replaced as needed for the specific task. 
-
-
+![Candidate Outcomes](Resources/Candidate_Outcomes.png)
+![County Outcomes](Resources/County_Outcomes.png)
 The script also provides analysis output at both the geographic and candidate level which are key aspects an any election, not just the subject election described herein.
-
 
 ----------------
 # Pricint Data - [CO Election_Data](Election_Alanysis/Resources/election_results.csv)
