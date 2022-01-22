@@ -39,5 +39,5 @@ The script also utilizes empty list and dictionary sets (key and value pairs) wh
 The script also provides analysis output at both the geographic and candidate level which are key aspects an any election, not just the subject election described herein.
 
 ----------------
-# Pricint Data - [CO Election_Data](/Resources/election_results.csv)
+# Precinct Data - [CO Election_Data](/Resources/election_results.csv)
  
